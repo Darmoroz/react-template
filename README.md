@@ -1,1 +1,1 @@
-train-react-app
+react-app-template
